@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **my thesis for university**
 
-- 🌱 I’m currently learning **Machine Learning And IA**
+- 🌱 I’m currently learning **Machine Learning And AI**
 
 - 💬 Ask me about **Python or web developing**
 
 - 📫 How to reach me **medinadav2004@gmail.com**
 
-- ⚡ Fun fact **I love being a nerd :D**
+- ⚡ Fun fact **I love Music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
